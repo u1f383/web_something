@@ -1,0 +1,7 @@
+ngrok
+burp
+nmap
+gobuster
+hash-identifier
+GitTools
+rockyou.txt
